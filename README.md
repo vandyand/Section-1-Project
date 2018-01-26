@@ -1,3 +1,4 @@
+
 # Udacity Full Stack Nanodegree - Section 1 Project
 I created a simple mockup page to resemble a pdf from class.
 

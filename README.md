@@ -1,4 +1,3 @@
-
 # Udacity Full Stack Nanodegree - Section 1 Project
 I created a simple webpage based on a pdf design from class.
 

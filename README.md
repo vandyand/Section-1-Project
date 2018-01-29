@@ -1,6 +1,6 @@
 
 # Udacity Full Stack Nanodegree - Section 1 Project
-I created a simple mockup page to resemble a pdf from class.
+I created a simple webpage based on a pdf design from class.
 
 * [index.html](https://github.com/vandyand/Section-One-Project/blob/master/index.html) contains the html code for building the site.
 * [main.css](https://github.com/vandyand/Section-One-Project/blob/master/main.css) contains the css code for styling the site.

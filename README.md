@@ -1,11 +1,10 @@
 # Udacity Full Stack Nanodegree - Section 1 Project
-I created a simple webpage based on a pdf design from class.
+## About
+I created a simple webpage based on a pdf design from class. I built the webpage using github's very own [Atom text editor](https://atom.io/).
+and I made it responsive using components from the popular [bootstrap framework](https://getbootstrap.com/).
 
 * [Proj1.html](https://github.com/vandyand/Section-One-Project/blob/master/Proj1.html) contains the html code for building the site.
 * [style.css](https://github.com/vandyand/Section-One-Project/blob/master/style.css) contains the css code for styling the site.
-
-## About
-I built the webpage using github's very own [Atom text editor](https://atom.io/). 
 
 ## How to Use
 * Download code or clone repository to your system.

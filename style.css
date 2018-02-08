@@ -1,49 +1,75 @@
-.logo{
-	width: 108px; max-width: 100%
-}
-.fill{
-	width: 100%;
-}
-.pad-top{
-	padding-top: 5px;
-}
-.pad-bott{
-	padding-bottom: 5px;
-}
-.right{
-	text-align: right;
-}
-.borderr{
-	border: 2px solid black;
-}
-.borderr-left{
-	border-left: 2px solid black;
-}
-.borderr-right{
-	border-right: 2px solid black;
-}
-.borderr-bot{
-	border-bottom: 2px solid black;
-}
-body{
-	font: 12px arial; background-color: #fafafa
-}
-header{
-	background-color: #999;
-}
-footer{
-	text-align: right; color: #fff; background-color: #777
+.logo {
+  width: 108px;
+  max-width: 100%;
 }
 
-/*Media queries for sizing elements on small screens and
-adjusting borders*/
-@media screen and (max-width: 425px)	{
-	span{font-size: 16pt;}
-	.section-borderr{border-top: 2px solid black; border-left: 2px solid black;}
+.fill {
+  width: 100%;
 }
-@media screen and (min-width: 425px) and (max-width: 576px)	{
-	span{font-size: 22pt;}
+
+.pad-top {
+  padding-top: 5px;
 }
+
+.pad-bott {
+  padding-bottom: 5px;
+}
+
+.right {
+  text-align: right;
+}
+
+.borderr {
+  border: 2px solid black;
+}
+
+.borderr-left {
+  border-left: 2px solid black;
+}
+
+.borderr-right {
+  border-right: 2px solid black;
+}
+
+.borderr-bot {
+  border-bottom: 2px solid black;
+}
+
+body {
+  font: 12px arial;
+  background-color: #fafafa;
+}
+
+header {
+  background-color: #999;
+}
+
+footer {
+  text-align: right;
+  color: #fff;
+  background-color: #777;
+}
+
+/*Media queries for sizing elements on small screens and adjusting borders*/
+@media screen and (max-width: 425px) {
+  span {
+    font-size: 16pt;
+  }
+
+  .section-borderr {
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+  }
+}
+
+@media screen and (min-width: 425px) and (max-width: 576px) {
+  span {
+    font-size: 22pt;
+  }
+}
+
 @media screen and (min-width: 576px) {
-	span{font-size: 30pt;}
+  span {
+    font-size: 30pt;
+  }
 }
